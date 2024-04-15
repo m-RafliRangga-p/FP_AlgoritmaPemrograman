@@ -1,0 +1,22 @@
+		 Amikom-Mart 		
+	 Jl. Ring Road Utara, Ngringin,
+	 Condongcatur, Depok, Sleman, DIY
+	 Wed Jan 11 14:11:04 2023
+
+_______________________________________________
+ID1	Ajinomoto 500ml	
+5	5.000
+ID2	Sabun	
+2	2.000
+ID3	Yupi	
+5	25.000
+ID4	Permen	
+3	1.500
+_______________________________________________
+Total 	: 33.500
+Pembayaran 	: 50.000
+Kembalian 	: 16.500
+_______________________________________________
+	 Terimakasih Telah 
+	 Berbelanja Di
+	 Toko Kami
